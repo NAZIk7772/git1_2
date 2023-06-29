@@ -1,1 +1,3 @@
-lorem
+Основи Git українською
+Категория курса
+Frontend Developer
